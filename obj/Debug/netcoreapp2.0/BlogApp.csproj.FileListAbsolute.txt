@@ -1,0 +1,12 @@
+C:\Users\quanvum1\source\repos\BlogApp\BlogApp\bin\Debug\netcoreapp2.0\BlogApp.deps.json
+C:\Users\quanvum1\source\repos\BlogApp\BlogApp\bin\Debug\netcoreapp2.0\BlogApp.runtimeconfig.json
+C:\Users\quanvum1\source\repos\BlogApp\BlogApp\bin\Debug\netcoreapp2.0\BlogApp.runtimeconfig.dev.json
+C:\Users\quanvum1\source\repos\BlogApp\BlogApp\bin\Debug\netcoreapp2.0\BlogApp.dll
+C:\Users\quanvum1\source\repos\BlogApp\BlogApp\bin\Debug\netcoreapp2.0\BlogApp.pdb
+C:\Users\quanvum1\source\repos\BlogApp\BlogApp\obj\Debug\netcoreapp2.0\BlogApp.csprojResolveAssemblyReference.cache
+C:\Users\quanvum1\source\repos\BlogApp\BlogApp\obj\Debug\netcoreapp2.0\BlogApp.csproj.CoreCompileInputs.cache
+C:\Users\quanvum1\source\repos\BlogApp\BlogApp\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\quanvum1\source\repos\BlogApp\BlogApp\obj\Debug\netcoreapp2.0\BlogApp.AssemblyInfoInputs.cache
+C:\Users\quanvum1\source\repos\BlogApp\BlogApp\obj\Debug\netcoreapp2.0\BlogApp.AssemblyInfo.cs
+C:\Users\quanvum1\source\repos\BlogApp\BlogApp\obj\Debug\netcoreapp2.0\BlogApp.dll
+C:\Users\quanvum1\source\repos\BlogApp\BlogApp\obj\Debug\netcoreapp2.0\BlogApp.pdb
